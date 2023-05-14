@@ -2,8 +2,8 @@ backend:
   name: github
   repo: bishalnepali/rejango
   branch: main # or the name of your default branch
-  base_url: https://rejango.pages.dev/
-  auth_endpoint: /api/auth
+  #base_url: https://rejango.pages.dev/
+  #auth_endpoint: /api/auth
 
 media_folder: static/img
 public_folder: /img
